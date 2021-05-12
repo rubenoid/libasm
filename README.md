@@ -1,6 +1,8 @@
 # libasm
 Get familiar with assembly language
 
+![mark](https://github.com/rubenoid/libasm/blob/main/libasm_mark.png?raw=true)
+
 ### Make
 `make` to compile or `make test` to see the functions in action (read only reads first 1000 characters of main.c)
 
