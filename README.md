@@ -4,7 +4,7 @@ Get familiar with assembly language
 ![mark](https://github.com/rubenoid/libasm/blob/main/libasm_mark.png?raw=true)
 
 ### Make
-`make` to compile or `make test` to see the functions in action (read only reads first 1000 characters of main.c)
+`make` to compile or `make test` to see the functions in action (`read` reads first 1000 characters of main.c)
 
 ## Subject
 - The library must be called libasm.a.
